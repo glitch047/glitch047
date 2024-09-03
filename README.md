@@ -19,6 +19,6 @@ Life-Long Learner|Cyber Warrior|Generative AI|LLM|DevSecOps|IT & CyS |Music Comp
 ![](https://github-contributor-stats.vercel.app/api?username=glitch047&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=glitch047&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=glitch047&icon=0&color=1)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
