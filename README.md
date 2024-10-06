@@ -9,7 +9,7 @@
 </h1>
 
 <h1 id="header" align="center">
-  Life-Long Learner|Cyber Warrior|Generative AI|LLM|DevSecOps|IT & CyS |Music Composer|
+  | Generative AI | LLM | DevSecOps | IT & CyS | Cyber Warrior | Writer | Researcher | Music Composer |
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
